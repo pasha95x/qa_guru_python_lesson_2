@@ -1,5 +1,5 @@
 def print_hello():
-    print("Hello PyCharm")
+    print("Hello")
 
 
 print_hello()
